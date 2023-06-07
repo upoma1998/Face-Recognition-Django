@@ -1,0 +1,15 @@
+asgiref==3.3.4
+distlib==0.3.6
+Django==3.2
+django-mysql==4.7.1
+filelock==3.8.0
+mysql-connector==2.2.9
+mysqlclient @ file:///C:/Users/Hp/Downloads/mysqlclient-2.1.1-cp310-cp310-win_amd64.whl
+Pillow==9.3.0
+platformdirs==2.5.4
+pytz==2021.1
+selenium==3.141.0
+sqlparse==0.4.1
+tzdata==2022.7
+urllib3==1.26.4
+virtualenv==20.17.0
